@@ -31,6 +31,11 @@ sidebar:
       - item: Food
         link:
 
+title:
+    languages: Languages
+    interests: Interests
+    education: Education
+
 career-profile:
     title: Career Profile
     summary: |
@@ -43,9 +48,6 @@ career-profile:
         - Swedish 🇸🇪
       - Copywriting
       - Project Management
-
-title:
-    education: Education
 
 education:
     - degree: Redovisningskonsult

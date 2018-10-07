@@ -31,6 +31,11 @@ sidebar:
       - item: Mat
         link:
 
+title:
+    languages: Språk
+    interests: Intressen
+    education: Utbildning
+
 career-profile:
     title: Karriärprofil
     summary: |
@@ -43,9 +48,6 @@ career-profile:
         - Svenska 🇸🇪
       - Copywriting
       - Projektledning
-
-title:
-    education: Utbildning
 
 education:
     - degree: Redovisningskonsult
