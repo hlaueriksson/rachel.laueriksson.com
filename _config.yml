@@ -1,0 +1,21 @@
+# Site Settings
+title: Rachel Lau Eriksson
+url: https://rachel.laueriksson.com
+baseurl: ""
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: berry # blue turquoise green berry orange ceramic
+
+# Tracker
+analytics: UA-39767110-4
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

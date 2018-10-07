@@ -1,0 +1,85 @@
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Rachel Lau Eriksson
+    tagline: Accounting
+    avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: rachel@laueriksson.com
+    phone: +46 76 400 74 20
+    website: rachel.laueriksson.com # do not add https://
+    linkedin: rachellaueriksson
+
+    languages:
+      - idiom: Cantonese
+        level: Native
+      - idiom: Swedish
+        level: Professional
+      - idiom: English
+        level: Professional
+      - idiom: Mandarin
+        level: Professional
+
+    interests:
+      - item: Travel
+        link:
+      - item: Nature
+        link:
+      - item: Food
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I accept (remote) freelancing assignments regarding:
+
+      - Accounting
+      - Translation
+        - Cantonese 🇭🇰
+        - English 🇬🇧
+        - Swedish 🇸🇪
+      - Copywriting
+      - Project Management
+
+education:
+    - degree: Redovisningskonsult
+      university: Påhlmans Handelsinstitut
+      time: 2015 - 2018
+      details: |
+        Yh-utbildning till redovisningskonsult
+
+          - [http://www.phi.se](http://www.phi.se)
+
+    - degree: Bachelor of Social Sciences
+      university: City University of Hong Kong
+      time: 1997 - 2000
+      details: |
+        Public Administration and Management
+
+          - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Microsoft Office
+        level: 90%
+      - name: Fortnox
+        level: 70%
+      - name: Navision
+        level: 60%
+      - name: e-comincs
+        level: 50%
+      - name: Revisor
+        level: 50%
+      - name: Aptic ARC
+        level: 50%
+      - name: Centsoft
+        level: 40%
+      - name: Visma
+        level: 30%
+
+footer: >
