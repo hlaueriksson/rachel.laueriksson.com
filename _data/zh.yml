@@ -2,7 +2,7 @@ sidebar:
 
     # Profile information
     name: Rachel Lau Eriksson
-    tagline: Redovisningskonsult
+    tagline: 會計
     avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -12,40 +12,40 @@ sidebar:
     linkedin: rachellaueriksson
 
     languages:
-      - idiom: Kantonesiska
-        level: Modersmål
-      - idiom: Svenska
-        level: Flytande
-      - idiom: Engelska
-        level: Flytande
-      - idiom: Mandarin
-        level: Flytande
+      - idiom: 廣東話
+        level: 本地人
+      - idiom: 瑞典
+        level: 專業的
+      - idiom: 英語
+        level: 專業的
+      - idiom: 普通話
+        level: 專業的
 
     interests:
-      - item: Resor
+      - item: 旅行
         link:
-      - item: Natur
+      - item: 性質
         link:
-      - item: Mat
+      - item: 餐飲
         link:
 
 title:
-    languages: Språk
-    interests: Intressen
-    education: Utbildning
+    languages: 語言
+    interests: 興趣
+    education: 教育
 
 career-profile:
-    title: Karriärprofil
+    title: 職業簡介
     summary: |
-      Jag är öppen för frilansuppdrag inom:
+      我接受有關的自由職業分配:
 
-      - Redovisning
-      - Översättning
-        - Kantonesiska 🇭🇰
-        - Engelska 🇬🇧
-        - Svenska 🇸🇪
-      - Copywriting
-      - Projektledning
+      - 會計
+      - 翻譯
+        - 廣東話 🇭🇰
+        - 英語 🇬🇧
+        - 瑞典 🇸🇪
+      - 文案
+      - 項目管理
 
 education:
     - degree: Redovisningskonsult
@@ -65,7 +65,7 @@ education:
           - [https://www.cityu.edu.hk](https://www.cityu.edu.hk)
 
 skills:
-    title: Färdigheter & Kompetens
+    title: 技能和熟練程度
 
     toolset:
       - name: Microsoft Office
@@ -86,6 +86,6 @@ skills:
         level: 30%
 
 footer: >
-    <a href="/">English 🇬🇧</a> |
-    <a href="/sv" class="active">Svenska 🇸🇪</a>
+    <a href="/" class="active">English 🇬🇧</a> |
+    <a href="/sv">Svenska 🇸🇪</a>
     <a href="/zh">廣東話 🇭🇰</a>
