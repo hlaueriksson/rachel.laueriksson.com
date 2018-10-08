@@ -86,6 +86,6 @@ skills:
         level: 30%
 
 footer: >
-    <a href="/" class="active">English 🇬🇧</a> |
-    <a href="/sv">Svenska 🇸🇪</a>
-    <a href="/zh">廣東話 🇭🇰</a>
+    <a href="/">English 🇬🇧</a> |
+    <a href="/sv">Svenska 🇸🇪</a> |
+    <a href="/zh" class="active">廣東話 🇭🇰</a>
