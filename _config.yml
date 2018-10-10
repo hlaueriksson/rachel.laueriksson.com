@@ -1,7 +1,10 @@
 # Site Settings
 title: Rachel Lau Eriksson
+description: Accountant / Redovisningskonsult / 會計
+author: Rachel Lau Eriksson
 url: https://rachel.laueriksson.com
 baseurl: ""
+
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
 
@@ -19,3 +22,6 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
+
+plugins:
+  - jekyll-seo-tag
